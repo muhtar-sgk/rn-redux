@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/muhtar/Public/ReactNativeProjects/rn-redux/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.m \
+  /Users/muhtar/Public/ReactNativeProjects/rn-redux/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/muhtar/Public/ReactNativeProjects/rn-redux/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
